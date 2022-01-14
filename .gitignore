@@ -24,3 +24,9 @@ hs_err_pid*
 
 # excluding ide metadata files
 .idea
+
+# excluding gradle metadata and binaries
+.gradle
+gradle
+gradlew
+gradlew.bat
